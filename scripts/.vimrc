@@ -1,0 +1,9 @@
+" tab navigation
+map th :tabfirst<CR>
+map tj :tabnext<CR>
+map tk :tabprev<CR>
+map tl :tablast<CR>
+map tn :tabnew<CR>
+map td :tabclose<CR>
+map tt :tabedit<Space>
+map tm :tabm<Space>
